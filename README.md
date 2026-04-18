@@ -21,7 +21,7 @@
 ## Projects
 
 ### [LLM Opinion Dynamics](https://github.com/ovladisluvv/LLM-opinion-dynamics)
-**Description**: Python framework for studying opinion dynamics in social networks with LLM-based agents, including reproducible experimental setups and comparison with classical consensus models such as DeGroot
+**Description**: Python framework for modeling opinion dynamics in social networks with LLM-based agents, including reproducible experimental setups and comparison with classical consensus models such as DeGroot
 
 ### [Haskell Chess](https://github.com/ovladisluvv/Haskell-Chess-2026)
 **Description**: Haskell implementation of the classic game of Chess with a graphical user interface, supporting both two-player matches and single-player games against a bot
