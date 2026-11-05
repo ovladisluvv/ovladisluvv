@@ -47,9 +47,9 @@ HOST = "ovladisluvv"   # shown as  you@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Junior ML Engineer @ Jet Infosystems"),
     ("kv", "Now", "Research Scientist @ Institute of Control"),
     ("kv", "", "Sciences RAS"),
+    ("kv", "Prev", "Junior ML Engineer @ Jet Infosystems"),
     ("kv", "Edu", "Computer Science student, Moscow State"),
     ("kv", "", "University, Faculty of Computational"),
     ("kv", "", "Mathematics and Cybernetics"),
@@ -58,7 +58,7 @@ ROWS = [
     ("kv", "", "and Development"),
     ("gap",),
     ("sec", "Skills"),
-    ("kv", "Languages", "Python, C++, C, Lisp, Haskell"),
+    ("kv", "Languages", "Python, C++, C, Lisp, Haskell, Prolog"),
     ("kv", "Tools", "Git, Scikit-learn, PyTorch, NetworkX"),
 ]
 
